@@ -6,7 +6,7 @@ area.
 3) Write a C program to enter radius of a circle and find its diameter, circumference and
 area.
 4) Write a C program to enter base and height of a triangle and find its area.
-S) Write a C program to enter length in centimeter and convert it into meter and
+5) Write a C program to enter length in centimeter and convert it into meter and
 kilometer.
 6) Write a C program to enter temperature in Celsius and convert it itto Fahrenheit.
 7)  Write a C program to enter temperature in Fahrenheit and convet it into Celsius
@@ -14,7 +14,7 @@ kilometer.
 9) Write a C program to find power of any number (x^y)
 10) Write a C program to enter any number and eat- ate iis square root.
 and find the third angle.
-I1) Write a C program to enter two angles of a t
+11) Write a C program to enter two angles of a t
 12) Write a program to calculate area of an equlai:al triangle.
 13) Write a C program to enter marks of five subjects and calculate total, average and
 percentage.
