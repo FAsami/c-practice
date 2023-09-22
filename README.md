@@ -1,5 +1,8 @@
 # Basic c practice problems
 
+ - [A. Taking user input](https://github.com/FAsami/c-practice#a-taking-user-input)
+
+
 ##  A. Taking user input
 [01. Write a C program to enter two numbers and find their sum](https://github.com/FAsami/c-practice/blob/master/%5BA01%5Dsummation.c)
 
