@@ -1,7 +1,10 @@
 # Basic c practice problems
 
-## [A. Taking user input](https://github.com/FAsami/c-practice#a-taking-user-input)
-## [B. Conditional/Ternary operator](https://github.com/FAsamic-practice#b-taking-user-input)
+### [A. Taking user input](https://github.com/FAsami/c-practice#a-taking-user-input)
+### [B. Conditional/Ternary operator](https://github.com/FAsami/c-practice#b-conditionalternary-operator-1)
+
+
+
 
 
 ##  A. Taking user input
