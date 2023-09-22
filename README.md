@@ -1,6 +1,6 @@
 # Basic c practice problems
 
- - [A. Taking user input](https://github.com/FAsami/c-practice#a-taking-user-input)
+ ## [A. Taking user input](https://github.com/FAsami/c-practice#a-taking-user-input)
 
 
 ##  A. Taking user input
