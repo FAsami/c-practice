@@ -1,4 +1,6 @@
-# C practice
+## Basic c practice probles
+
+# Problems A
 
 1) Write a C program to enter two numbers and find their sum
 2) Write a C program to enter length and breadth of a rectangle and find its perimeter &
