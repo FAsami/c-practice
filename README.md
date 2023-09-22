@@ -2,7 +2,8 @@
 
 # Problems A
 
-1) Write a C program to enter two numbers and find their sum
+1)[Write a C program to enter two numbers and find their sum](https://github.com/FAsami/c-practice/blob/master/%5BA10%5Dsquare_root.c)
+
 2) Write a C program to enter length and breadth of a rectangle and find its perimeter &
 area.
 3) Write a C program to enter radius of a circle and find its diameter, circumference and
