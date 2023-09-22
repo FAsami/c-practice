@@ -1,6 +1,7 @@
 # Basic c practice problems
 
- ## [A. Taking user input](https://github.com/FAsami/c-practice#a-taking-user-input)
+## [A. Taking user input](https://github.com/FAsami/c-practice#a-taking-user-input)
+## [B. Conditional/Ternary operator](https://github.com/FAsamic-practice#b-taking-user-input)
 
 
 ##  A. Taking user input
@@ -31,3 +32,11 @@
 [13. Write a C program to enter marks of five subjects and calculate total, average and percentage.](https://github.com/FAsami/c-practice/blob/master/%5BA13%5Dtotal_average_percentage.c)
 
 [14. Write a C program to enter P, T, and R and calculate Simple and Compound Interest.](https://github.com/FAsami/c-practice/blob/master/%5BA14%5Dinterest.c)
+
+
+## B. Conditional/Ternary operator
+01. Write a C program ot find maximum and minimum among three numbers
+using conditional/ternary operator.
+02. Write a C program to check whether a number is even or odd
+03. Write a C program to check whether year is leap year or not using conditional/ternary operator.
+04. Write a C program to check whether character is an alphabet or not using conditional/ternary operator.
